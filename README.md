@@ -27,6 +27,4 @@ Le projet est organisé en 5 fichiers sources :
 
 ## Auteur
 **Bamba Ousmane RGL 3 B**
-2. Compilez tous les fichiers :
-   ```bash
-   javac *.java
+
